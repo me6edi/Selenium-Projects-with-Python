@@ -1,0 +1,2 @@
+1.Must be install virtual environment 
+2.pip install requirements.txt
